@@ -1,1 +1,1 @@
-# Ecommerce_database_management_system
+This project is an E-commerce Management System built with Python and Tkinter, integrated with MySQL for database operations. It features user authentication, and various functionalities for managing customers, orders, and products. Users can add, update, delete records, and execute custom SQL queries through a graphical interface.
